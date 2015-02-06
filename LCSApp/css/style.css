@@ -1,0 +1,50 @@
+/* Empty. Add your own CSS if you like */
+.content {
+	color: #FFF;
+	background: #222;
+}
+
+.lcsListItem {
+	color: #FFF;
+	background: url('../img/dark-stone-wrapper.jpg');
+}
+
+img {
+	display: block;
+	float: none;
+	margin: 0 auto;
+	width: 100%;
+	border: solid 1px #c49246;
+}
+
+.listImg {
+	display: block;
+	float: none;
+	margin: 0 auto;
+	width: 50%;
+}
+
+h2, h3 {
+	text-align: center;
+	color: #FFF;
+}
+
+.stoneBkg {
+	background: url('../img/dark-stone-wrapper.jpg');
+	background-repeat: no-repeat;
+}
+
+.teamName {
+	color: #FFF;
+}
+
+.playerName {
+	color: #c49246;
+}
+
+.stats {
+	display: block;
+	float: none;
+	margin: 0px auto;
+	width: 70%;
+}
